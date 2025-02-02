@@ -8,7 +8,7 @@ function BestOfAirMax() {
       name: "Nike Air Max Pulse",
       description: "Women's Shoes",
       price: "₹ 13,995",
-      image: "/Image4.png",
+      image: "/image4.png",
     },
     {
       name: "Nike Air Max Pulse",
